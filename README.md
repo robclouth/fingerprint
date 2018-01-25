@@ -21,8 +21,6 @@ If you want to use the default parameters, run:
 
 and see what you get. Because the algorithm randomly fluctuates the grain sizes and spacing, it's hard to accurately calculate the total length of the summary. The default settings compressed all of my music since 2003 down to 88 minutes. Just tweak and see what you get. It all sounds pretty interesting.
 
-P.S. Ignore the commit history of this project. It's ugly and I couldn't be bothered to delete it.
-
 
 
 
