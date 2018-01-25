@@ -1,0 +1,7 @@
+.idea
+output
+*.mp3
+__pycache__
+.vscode
+*.pyc
+analysis files
